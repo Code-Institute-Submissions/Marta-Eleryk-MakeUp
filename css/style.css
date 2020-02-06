@@ -16,17 +16,30 @@
     font-family: "Muli",sans-serif;
     color: #474747;
     text-transform: uppercase;
-    padding-bottom: 50px;
+    padding-bottom: 75px;
 }
+
+.navbar-toggler{
+    margin-right: auto;
+    margin-left: auto;
+    border: none;
+}
+
 
 .navbar a{
     color:#474747;
+    font-size: 22px;
+    text-align: center;
 }
 
 .navbar ul{
     margin-left: auto;
     margin-right: auto;
 }
+
+
+
+
 
 /*-----------------------------body-----------------------*/
 
@@ -36,6 +49,38 @@ img {
     height: 400px;
     object-fit: cover;
 }
+
+.hvr-grow {
+    display: inline-block;
+    vertical-align: middle;
+    transform: translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    backface-visibility: hidden;
+    -moz-osx-font-smoothing: grayscale;
+    transition-duration: 1s;
+    transition-property: transform;
+}
+
+/*-----------------------------footer-----------------------*/
+
+footer{
+    height:300px;
+}
+
+a {
+    color: #474747;
+}
+
+.social-links li a i{
+    padding: 12px 0;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 50px;
+    
+    
+}
+
+
 
 
 
