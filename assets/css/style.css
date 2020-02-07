@@ -41,14 +41,14 @@
 
 
 
-/*-----------------------------body-----------------------*/
+/*----------------------------- index/body-----------------------*/
+
 
 
 img {
-    width: 400px; 
+    width: 600px; 
     height: 400px;
     object-fit: cover;
-    text-align: center;
 }
 
 .hvr-grow {
@@ -88,7 +88,43 @@ a {
 }
 
 
+/*-----------------------------about-----------------------*/
 
+.contact-details{
+    font-family: "Muli",sans-serif;
+    padding-bottom: 15px;
+    text-align: center;
+
+}
+
+.contact-email{
+    padding-bottom: 30px;
+}
+
+.center-form{
+    padding-top: 10px;
+    padding-bottom: 50px;
+    margin: 0 auto;
+    max-width: 70%;
+    font-family: "Muli",sans-serif;
+}
+
+button[type="submit"] {
+    margin-top: 15px;
+    margin-bottom: 20px;
+    color: #fafafa;
+    background-color:#474747;
+    font-family: "Muli",sans-serif;
+}
+
+
+@media(min-width: 992px){
+    .center-form{
+    padding-top: 30px;
+    min-height: 240px;
+    margin: 0 auto;
+    max-width: 50%;
+}
 
 
 
