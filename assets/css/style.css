@@ -88,7 +88,7 @@ a {
 }
 
 
-/*-----------------------------about-----------------------*/
+/*-----------------------------Contact-----------------------*/
 
 .contact-details{
     font-family: "Muli",sans-serif;
@@ -124,6 +124,41 @@ button[type="submit"] {
     min-height: 240px;
     margin: 0 auto;
     max-width: 50%;
+}
+
+/*-------------------------About---------------------------*/
+
+
+.about-image{
+    text-align: center;
+  
+}
+
+.makeup-image{
+    height: 300px;
+    width: 300px;
+    border-radius: 150px;
+    margin-bottom: 50px;
+}
+
+.about-container{
+    text-align: center;
+    font-family: "Muli",sans-serif;
+    display: inline-block;
+    
+}
+
+.about-title{
+    padding: 25px;
+    font-size: 35px;
+}
+
+.about-container p{
+    margin-right: 400px;
+    margin-left: 400px;
+    font-size: 25px;
+    padding: 25px;
+    
 }
 
 
