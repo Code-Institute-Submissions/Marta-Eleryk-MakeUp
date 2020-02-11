@@ -58,6 +58,7 @@
 
 img {
     object-fit: cover;
+    /* height: 400px; */
   
 }
 
@@ -185,7 +186,7 @@ button[type="submit"] {
 /*-------------------------Film---------------------------*/
 
 .hvrbox * {
-	box-sizing: border-box;
+	box-sizing:border-box;
     
 }
 .hvrbox {
