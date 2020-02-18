@@ -39,7 +39,7 @@
 
 
 .navbar a{
-    font-size: 22px;
+    font-size: 20px;
     text-align: center;
 }
 
@@ -67,11 +67,8 @@ img {
     padding-bottom: 30px;
 }
 
-.hvr-sweep-to-bottom:before{
-    background-color:rgba(0,0,0,0.2);
-    height: 400px;
-    z-index: 1;
-}
+
+
 /*-----------------------------footer-----------------------*/
 
 footer{
