@@ -51,7 +51,8 @@ added a new feature to make sure that it worked on all devices. Each link item w
         Check that a new page laods with the relevant link.
     NavBar:
         Click each navigation item.
-        Make sure it takes you to the relevant page, try this on every page to make sure you can navigate around the entire site.
+        Make sure it takes you to the relevant page, try this on every page to make sure you can navigate
+         around the entire site.
     Follow me Button:
         Click button.
         Make sure it takes you to the correct website.   
