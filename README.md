@@ -19,6 +19,8 @@ and main page, the images used for these groups were chosen to try and keep a si
     about section -  shows the user the artists history and what they're all about.
     contact page - provides a form to fill out for contacting and booking the artist.
     social links - lets the user see the artists instagram and an email link for the artists outlook messenger.
+    share modal on navbar - lets the user share the website on each social media platform. only connects to the website
+    at the moment as i need to work out how to get the link to copy.
 
     
  <h2>Additional features to be implemented in the future:</h2>
@@ -26,6 +28,7 @@ and main page, the images used for these groups were chosen to try and keep a si
 
     Once further along in this course I plan to add a modal to the images and a scroll bar to look trhough them.
     I would like to add hover text as well once I am better equipped to do so.
+    will make the share modal actually copy the link for people to share on the different social platforms.
 
 <h1>Technologies Used</h1>
 
@@ -56,6 +59,11 @@ added a new feature to make sure that it worked on all devices. Each link item w
     Follow me Button:
         Click button.
         Make sure it takes you to the correct website.   
+    Share button in navbar:
+        clciked button in every screen size
+        made sure the modal fits the screen
+        links to the right web oages.
+            
     
 
 I came across lots of problems while making this site mainly with the images.  It took a while to get to grips with different 
