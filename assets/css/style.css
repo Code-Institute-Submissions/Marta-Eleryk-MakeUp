@@ -50,6 +50,18 @@
     margin-right: auto;
 }
 
+ul .btn{
+    color: #474747;
+    background-color: #fff;
+    border: none;
+    font-size: 20px;
+
+}
+
+.btn-light{
+    background-color: #fff;
+}
+
 
 
 
@@ -183,5 +195,5 @@ button[type="submit"] {
 }
 
 
-/*-------------------------Film---------------------------*/
+
 
