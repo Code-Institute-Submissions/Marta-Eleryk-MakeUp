@@ -34,7 +34,7 @@ and main page, the images used for these groups were chosen to try and keep a si
 
 To construct my website I used mainly HTML and CSS. I also used:
 
-Bootstrap for the main images galleries to provide a better looking set of images.
+Bootstrap for the main images galleries to provide a better looking set of images. and also for the share modal.
 Font awesome was used for the social links.
 google fonts was used for the text on all pages.
 I added hover as well but this is still a work in progress and im finding it difficult to get the exact size for the hover overlay
