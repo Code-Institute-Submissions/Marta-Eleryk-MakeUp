@@ -1,14 +1,30 @@
-@import url('https://fonts.googleapis.com/css?family=Muli:100,200,300,400,500,600,700display=swap');
-
-@import url('https://fonts.googleapis.com/css?family=Beth+Ellen&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Beth+Ellen|Muli:100,200,300,400,500,600,700display=swap');
 /*-----------------------------header/navbar-----------------------*/
-.header-logo {
-    width: 80%;
-    
-}
+
 
 .logo-container{
     text-align: center;
+}
+
+#main-header-logo{
+    display: none;
+    width: 80%;
+}
+
+#mobile-header-logo{
+    width: 300px;
+    height: 300px;
+}
+
+
+
+@media(min-width: 640px) {
+    #mobile-header-logo{
+        display: none;
+    }
+    #main-header-logo{
+        display: inline-block;
+    }
 }
 
 .navbar{
@@ -130,14 +146,15 @@ button[type="submit"] {
 }
 
 
-@media(min-width: 992px){
-    .center-form{
-    padding-top: 30px;
-    min-height: 240px;
-    margin: 0 auto;
-    max-width: 50%;
+@media(min-width: 992px) {
+    .center-form {
+        padding-top: 30px;
+        min-height: 240px;
+        margin: 0 auto;
+        max-width: 50%;
+    }
 }
-}
+
 
 
 /*-------------------------About---------------------------*/
@@ -173,20 +190,9 @@ button[type="submit"] {
     padding-right: 50px;
     padding-top:25px;
     padding-bottom: 25px;
-    
-    
 }
 
-}
-
-.button-container{
-    padding-top:
-}
 
 .btn{
     background-color: #474747;
 }
-
-
-
-
