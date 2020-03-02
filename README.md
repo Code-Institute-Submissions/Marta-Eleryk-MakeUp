@@ -14,6 +14,7 @@ and main page, the images used for these groups were chosen to try and keep a si
 <h1>Features</h1>
 
     Heading - allows users to know what the site is about, by giving them the artists logo and the business.
+    Logo - Shows the artists main logo and shrinks down to anothjer logo on smaller screens.
     Navbar - allows userds to navigate the site by giving them a menu with links to the different pages.
     images - shows the user all of the artists work and provides the main focuse for each page.
     about section -  shows the user the artists history and what they're all about.
@@ -26,7 +27,7 @@ and main page, the images used for these groups were chosen to try and keep a si
  <h2>Additional features to be implemented in the future:</h2>
 
 
-    Once further along in this course I plan to add a modal to the images and a scroll bar to look trhough them.
+    Once further along in this course I plan to add a modal to the images and a carosuel to look trhough them.
     I would like to add hover text as well once I am better equipped to do so.
     will make the share modal actually copy the link for people to share on the different social platforms.
 
@@ -56,6 +57,9 @@ added a new feature to make sure that it worked on all devices. Each link item w
         Click each navigation item.
         Make sure it takes you to the relevant page, try this on every page to make sure you can navigate
          around the entire site.
+    Logo:
+        Spent some time trying diffrernt logos and decided that it would be better to use 2 different ones for
+        the different screen sizes, uesd dev tools to makes sure it would work on the screens.  
     Follow me Button:
         Click button.
         Make sure it takes you to the correct website.   

@@ -105,6 +105,7 @@ a {
     padding: 12px 0;
     font-size: 30px;
     padding-top: 50px;
+    color: #474747;
 }
 
 .footnote{
@@ -197,4 +198,34 @@ button[type="submit"] {
     background-color: #474747;
 }
 
+.carousel-inner{
+    height: 100vw;
+}
+
+
+
+/*-----------------------------Fashion-----------------------*/
+
+.fashion-show-container{
+    object-fit: cover;
+}
+
+.fashion-show-image{
+    height: 400px;
+    width: 400px;
+    object-fit: cover;
+
+}
+
+.image-description{
+    font-family: "Muli",sans-serif;
+    font-size: 18px;
+    color: #474747;
+    font-weight: 500;
+    text-align: left;
+}
+
+.fashion-show-image > .img-fluid {
+    padding-bottom: 0;
+}
 
