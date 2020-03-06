@@ -88,24 +88,20 @@ I'm still struggling to get the image overlay which comes up with text to sit ex
 
 <h1>Deployment</h1>
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+this project is hosted on git hub. i used the terminsal in my project to commit and oush the files to github Technologieswent into settings 
+and master branch to get the link for my website.
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
+There are no differences bewtween the deployed site and my development site which is good!
 
-    Different values for environment variables (Heroku Config Vars)?
-    Different configuration files?
-    Separate git branch?
-
-In addition, if it is not obvious, you should also describe how to run your code locally.
 Credits
 Content
 
-    The text for section Y was copied from the Wikipedia article Z
+    All text written by Marta Eleryk
 
 Media
 
-    The photos used in this site were obtained from ...
+    The photos used in this site were obtained from Marta Eleryk.
 
 Acknowledgements
 
-    I received inspiration for this project from X
+    I received inspiration for this project from the makeup artist with many of my own ideas thrown in.
