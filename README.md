@@ -31,6 +31,16 @@ and main page, the images used for these groups were chosen to try and keep a si
     I would like to add hover text as well once I am better equipped to do so.
     will make the share modal actually copy the link for people to share on the different social platforms.
 
+    As of right now the services drop down menu has no content as me and the artist havent decided on wether
+    or not to have more descriptions or more images.
+
+    not sure as of yet how to make an email link bring up a new window with the emai address already 
+    in the form.
+
+    one of the images on the fashion page will not re size im pretty sure i need to put it into photoshop 
+    or something similar to get the white border removed as it is part of the jpeg and will not disappear no
+    matter what else i try.
+
 <h1>Technologies Used</h1>
 
 To construct my website I used mainly HTML and CSS. I also used:
